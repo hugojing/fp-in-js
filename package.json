@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "name": "fp-in-js",
+  "version": "1.0.0",
+  "description": "FP in JS",
+  "author": "hugojing",
+  "license": "MIT"
+}
